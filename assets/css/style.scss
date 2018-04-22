@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+@media only screen and (max-device-width:480px) {
+    .site-header{
+      padding-bottom: 7px;
+
+      .site-sub-title {
+        display: block;
+        margin-top: -13px;
+        margin-left: 0px;
+      }
+      .site-top-menu {
+        margin-top: -5px;
+      }
+    }
+}
+
+hr.short{
+  display: block;
+	width: 20%;
+	margin: 50px auto 40px auto;
+	border: 1px solid #dededc;
+}
+
+.footnotes{
+  border-top: black 1px solid;
+  padding-top: 15px;
+  margin-top: 35px;
+  font-size: smaller;
+}
