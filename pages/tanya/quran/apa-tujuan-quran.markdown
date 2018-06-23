@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Apa Tujuan Al-Quran?"
-categories: quran taqwa
+categories: quran takwa
 permalink: /apa-tujuan-al-quran
 ---
 
